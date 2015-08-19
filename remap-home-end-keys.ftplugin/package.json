@@ -1,0 +1,10 @@
+{
+  "name": "Remap Home and End Keys",
+  "version": "1.0.0",
+  "description": "Plugin to remap Home and End keys so they send the cursor to the start and end of a line, respectively.",
+  "homepage": "https://github.com/tomkinsc/foldingtext-plugins",
+  "engines": {
+    "foldingtext": ">2.0.0",
+    "taskpaper": ">3.0.0"
+  }
+}

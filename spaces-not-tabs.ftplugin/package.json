@@ -1,0 +1,10 @@
+{
+  "name": "Spaces not Tabs",
+  "version": "1.0.0",
+  "description": "Plugin to insert four spaces rather than a tab.",
+  "homepage": "https://github.com/tomkinsc/foldingtext-plugins",
+  "engines": {
+    "foldingtext": ">2.0.0",
+    "taskpaper": ">3.0.0"
+  }
+}
